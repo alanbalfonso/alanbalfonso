@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Alan and I'm a software developer from Villahermosa, Tabasco. I make some personal projects and I like to publish them in my GitHub.<br>I am a dedicated person, open to new experiences where I can grow into a skilled professional. Additionally, I am a technology enthusiast and currently studying Python, Big Data Technologies, Swift application development, among others.</p>
+<p align="left">My name is Alan and I'm a software developer from Mexico. I make some personal projects and I like to publish them in my GitHub.<br>I am a dedicated person, open to new experiences where I can grow into a skilled professional. Additionally, I am a technology enthusiast and currently studying Python, Big Data Technologies, Swift application development, among others.</p>
 
 ###
 
