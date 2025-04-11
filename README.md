@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">My name is Alan and I'm a software developer from Mexico. I make some personal projects and I like to publish them in my GitHub.<br>I am a dedicated person, open to new experiences where I can grow into a skilled professional. Additionally, I am a technology enthusiast and currently studying Python, Big Data Technologies, Swift application development, among others.</p>
+<p align="left">My name is Alan and I'm a software developer from Villahermosa, Tabasco. I make some personal projects and I like to publish them in my GitHub.<br>I am a dedicated person, open to new experiences where I can grow into a skilled professional. Additionally, I am a technology enthusiast and currently studying Python, Big Data Technologies, Swift application development, among others.</p>
 
 ###
 
-<h2 align="left">I code with:</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -39,19 +39,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
 ###
 
-<h2 align="left">Socials:</h2>
+<h2 align="left">Social media</h2>
 
 ###
 
@@ -65,6 +64,12 @@
   <a href="https://gmail.com/a.bauzaa27@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanbalfonso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
