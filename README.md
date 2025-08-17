@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
 ###
@@ -61,7 +61,7 @@
   <a href="https://instagram.com/alanbauza_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://gmail.com/a.bauzaa27@gmail.com" target="_blank">
+  <a href="mailto:a.bauzaa27@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
