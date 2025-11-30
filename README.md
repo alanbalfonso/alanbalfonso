@@ -45,7 +45,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
 ###
