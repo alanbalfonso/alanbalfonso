@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Alan, student of Software Development Engineering at Universidad Tecmilenio.<br><br>- 🔭 I’m currently working at personal and academic projects.<br>- 📚 I'm currently learning DevOps architecture and cloud services.<br>- ⚡ In my free time I love listening to music and watching movies.</p>
+<p align="left">I'm Alan, student of Software Development Engineering at Universidad Tecmilenio.<br><br>- I’m currently working at personal and academic projects.<br>- In my studies, I'm learning DevOps architecture and cloud services.<br>- In my free time I love listening to music and watching movies.</p>
 
 ###
 
